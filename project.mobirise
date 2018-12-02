@@ -32,6 +32,12 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.4",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/am-favicon-128x115.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "siteUrl": "undefined",
     "uniqCompNum": 1,
     "versionPublish": "4.8.4"
   },
